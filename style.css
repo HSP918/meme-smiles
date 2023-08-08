@@ -40,3 +40,5 @@ body h1{
     color: black;
     margin: 8px;
 }
+
+@media (max-width: 768px)
